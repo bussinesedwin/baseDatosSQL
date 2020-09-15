@@ -4,6 +4,7 @@
     [Col2] INT NULL, 
     [Col3] VARCHAR(50) NULL, 
     [Col4] NVARCHAR(50) NULL, 
+    [Estado] BIT NULL, 
     CONSTRAINT [PK_ABC] PRIMARY KEY CLUSTERED ([Id] ASC)
 );
 

@@ -238,4 +238,7 @@
   <ItemGroup>
     <None Include="Publish\local.AdventureWorks2014.publish.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="AdventureWorks2014.refactorlog" />
+  </ItemGroup>
 </Project>
