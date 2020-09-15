@@ -2,6 +2,7 @@
     [Id]   BIGINT NOT NULL,
     [Int1] INT    NULL,
     [Col2] INT NULL, 
+    [Col3] VARCHAR(50) NULL, 
     CONSTRAINT [PK_ABC] PRIMARY KEY CLUSTERED ([Id] ASC)
 );
 
